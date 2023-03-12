@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647047285 source:d:\gcc test proj\lesson1\lab1_linux\main.cpp
+	<iostream>
+	<sys/time.h>
+

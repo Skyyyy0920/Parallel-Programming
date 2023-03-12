@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647175173 source:d:\gcc test proj\lesson1\lab1_win\main.cpp
+	<iostream>
+	<windows.h>
+
