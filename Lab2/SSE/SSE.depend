@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649731757 source:d:\my projects\gcc test proj\lesson2\sse\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<bitset>
+	<immintrin.h>
+	<sys/time.h>
+
