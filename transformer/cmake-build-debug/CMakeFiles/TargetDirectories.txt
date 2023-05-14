@@ -1,0 +1,13 @@
+C:/Users/86138/Desktop/transformer/cmake-build-debug/CMakeFiles/transformer.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/model/CMakeFiles/model.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/model/CMakeFiles/edit_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/model/CMakeFiles/rebuild_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/CMakeFiles/Test.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/googletest/CMakeFiles/gtest.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/googletest/CMakeFiles/gtest_main.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/googletest/CMakeFiles/edit_cache.dir
+C:/Users/86138/Desktop/transformer/cmake-build-debug/test/googletest/CMakeFiles/rebuild_cache.dir

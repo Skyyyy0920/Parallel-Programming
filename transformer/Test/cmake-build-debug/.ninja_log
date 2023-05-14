@@ -1,0 +1,18 @@
+# ninja log v5
+8	89	7039566978371071	CMakeFiles/Test.dir/src/add.cpp.obj	ef8292dc7e44c99d
+2	624	7039574777720560	build.ninja	5d41aa6604a58818
+17	86	7039566978341096	CMakeFiles/Test.dir/model/TestOperation.cpp.obj	4033dcb02612a0db
+25	5617	7039567033510272	googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	c09e38ce6f12675f
+5620	8745	7039567064922907	lib/libgtest.a	38bbb4d433e586f2
+5	85	7039566978331060	CMakeFiles/Test.dir/model/TestTensor.cpp.obj	39c112f77c6b075c
+5	855	7039574018043149	CMakeFiles/Test.dir/main.cpp.obj	fb65b82addab50e7
+20	989	7039566987386732	googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	487f483a19f55672
+8745	8801	7039567065518129	lib/libgtest_main.a	c34022c45c1776f2
+855	4941	7039574058834052	Test.exe	e9f5905a9b49a45f
+3	257	7039574777720560	build.ninja	5d41aa6604a58818
+8	58	7039574778927827	CMakeFiles/Test.dir/model/TestOperation.cpp.obj	1bbf10ea37fc6696
+16	70	7039574779047831	CMakeFiles/Test.dir/src/add.cpp.obj	5c095342fdcef69d
+4	949	7039574787830007	CMakeFiles/Test.dir/main.cpp.obj	6adc911451e9e272
+12	1121	7039574789541380	CMakeFiles/Test.dir/model/TestTensor.cpp.obj	10e32409cb1452e6
+6	1190	7039575176963443	CMakeFiles/Test.dir/model/TestTensor.cpp.obj	10e32409cb1452e6
+1191	5832	7039575223291712	Test.exe	e9f5905a9b49a45f

@@ -1,0 +1,12 @@
+//
+// Created by 86138 on 3/13/2023.
+//
+
+#ifndef TRANSFORMER_DECODERBLOCK_H
+#define TRANSFORMER_DECODERBLOCK_H
+
+class DecoderBlock{
+
+};
+
+#endif //TRANSFORMER_DECODERBLOCK_H

@@ -1,0 +1,17 @@
+C:\Users\86138\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/86138/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\86138\Desktop\transformer\test -B C:\Users\86138\Desktop\transformer\test\cmake-build-debug
+-- The CXX compiler identification is GNU 8.1.0
+-- The C compiler identification is GNU 8.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/develop software/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/develop software/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found Python: C:/Python310/python.exe (found version "3.10.4") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/86138/Desktop/transformer/Test/cmake-build-debug
